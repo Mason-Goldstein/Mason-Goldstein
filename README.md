@@ -1,6 +1,6 @@
 # Hi, I'm Mason Goldstein
 
-I'm a cybersecurity student at Randolph-Macon College with a second major in Religious Studies and a minor in Computer Science. I'm interested in IT, cybersecurity, Linux, networking, and hands-on home lab projects.
+I'm a cybersecurity student at Randolph-Macon College with a second major in Religious Studies and a minor in Computer Science. I'm interested in cybersecurity, IT, Linux, networking, and hands-on home lab projects.
 
 ## Current Focus
 - Raspberry Pi cybersecurity lab
