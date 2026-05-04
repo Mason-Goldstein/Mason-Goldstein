@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mason Goldstein
 
-<!--
-**Mason-Goldstein/Mason-Goldstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity student at Randolph-Macon College with a second major in Religious Studies and a minor in Computer Science. I'm interested in IT, cybersecurity, Linux, networking, and hands-on home lab projects.
 
-Here are some ideas to get you started:
+## Current Focus
+- Raspberry Pi cybersecurity lab
+- Linux hardening
+- Firewall configuration with UFW
+- SSH security
+- Fail2Ban monitoring
+- Docker-based security labs
+- TryHackMe practice
+- Network Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Home Lab Projects
+- Raspberry Pi SSH hardening
+- UFW firewall setup
+- Fail2Ban brute-force protection
+- Tailscale remote access
+- OWASP Juice Shop with Docker
+
+## Skills I'm Building
+- Linux command line
+- Networking basics
+- SSH
+- Firewalls
+- Log monitoring
+- Git and GitHub
+- Python/C++ coursework
