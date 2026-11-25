@@ -1,4 +1,4 @@
-# Hi, I'm Mason 👋
+# Hi, I'm Mason 
 
 **Cybersecurity student at Randolph-Macon College** · Religious Studies (2nd major) · CS minor · Richmond, VA
 
