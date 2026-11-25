@@ -63,7 +63,7 @@ A self-hosted web app for tracking maintenance on three personal watercraft. It 
 ### Coursework Projects
 
 - **Networked Battleship (Python):** two-player client/server game with session IDs, ship placement, turn-based firing, server-side hit/miss results, and win/draw detection, implemented within an instructor-provided framework
-- **Banking System (Python):** object-oriented `Client`, `BankAccount`, `CheckingAccount`, and `SavingsAccount` classes with input validation, account management, and interest calculation, extended across two projects
+- **Banking System (Python):** object-oriented `Client`, `BankAccount`, `CheckingAccount`, and `SavingsAccount` classes with input validation, account management, and interest calculation, extended across three projects with security as a main focus
 - **Unit Testing (Python):** `unittest` test suites for transaction and banking logic
 
 ---
