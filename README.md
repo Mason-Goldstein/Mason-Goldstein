@@ -1,42 +1,44 @@
-# Hi, I'm Mason 
+# Mason Goldstein
 
-**Cybersecurity student at Randolph-Macon College** · Religious Studies (2nd major) · CS minor · Richmond, VA
-
-I build and break things in my **Raspberry Pi home lab** to learn defensive security hands-on: hardening Linux hosts, locking down network access, and watching the logs to see what gets through.
-
-🎯 **Looking for:** cybersecurity / IT internships (SOC, security analyst, sysadmin, network)
+**Cybersecurity Student | Linux & Network Security | Home Lab Builder**
+Richmond, VA · Seeking cybersecurity and IT internship opportunities
 
 ---
 
-## 🔐 Home Lab
+### About
 
-| Project | What I did | Tools |
+I am a Cybersecurity student at Randolph-Macon College focused on defensive security. I run a Raspberry Pi home lab where I practice securing Linux systems, controlling network access, and monitoring for attacks. My goal is to contribute to a security or IT operations team while continuing to grow my technical skills.
+
+### Education
+
+**Randolph-Macon College**, Ashland, VA
+- Major: Cybersecurity
+- Second Major: Religious Studies
+- Minor: Computer Science
+
+### Home Lab Projects
+
+| Project | Description | Tools |
 |---|---|---|
-| **SSH hardening** | Key-only auth, disabled root login, non-default config | OpenSSH |
-| **Host firewall** | Default-deny inbound, allow-listed services only | UFW |
-| **Brute-force protection** | Auto-ban IPs after failed logins; reviewed ban logs | Fail2Ban |
-| **Secure remote access** | Reached the lab without exposing ports to the internet | Tailscale |
-| **Vulnerable web app lab** | Deployed and attacked a deliberately insecure app in a container | Docker, OWASP Juice Shop |
+| SSH Hardening | Secured remote access to a Raspberry Pi server | OpenSSH, Linux |
+| Firewall Configuration | Configured host-based firewall rules to restrict network traffic | UFW |
+| Brute-Force Protection | Set up automatic blocking of repeated failed login attempts | Fail2Ban |
+| Secure Remote Access | Set up private remote access to the lab | Tailscale |
+| Web Application Security Lab | Deployed an intentionally vulnerable web application in a container for security practice | Docker, OWASP Juice Shop |
 
-## 🧰 Skills & Tools
+### Technical Skills
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+- **Operating Systems:** Linux (command line, system administration), Raspberry Pi OS
+- **Security:** System hardening, firewall configuration, SSH security, log monitoring, intrusion prevention
+- **Networking:** Networking fundamentals, network architecture, VPN / remote access
+- **Tools:** Docker, Fail2Ban, UFW, Tailscale, Git, GitHub
+- **Programming:** Python, C++ (coursework)
 
-**Security:** Linux hardening · firewalls · SSH security · log monitoring · intrusion prevention
-**Networking:** TCP/IP fundamentals · network architecture · VPN / mesh networking
+### Continued Learning
 
-## 📈 Currently
+- Hands-on security training through TryHackMe
+- Ongoing study of network architecture and Linux hardening
 
-- 🧪 Working through TryHackMe paths (SOC / defensive tracks)
-- 🌐 Studying network architecture
-- 📝 Documenting every lab build so it's reproducible
+### Contact
 
-<!-- Optional: add certifications as you earn them, e.g. CompTIA Security+ -->
+Open to internship and entry-level opportunities in cybersecurity and IT.
